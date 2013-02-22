@@ -1,0 +1,18 @@
+#logo {
+width:20%;
+height: 20%;
+}
+
+#nav_container {
+color:red;
+
+}
+
+#nav_container li {
+display:inline-block;
+padding-right:10px;
+}
+
+#nav_container li a{
+text-decoration:none;
+}
